@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vehicle Service Management System (VSMS)
 
 ## Project Overview
@@ -106,7 +105,6 @@ git clone https://github.com/your-username/vehicle-service-management-system.git
 
 ## Contributors
 
-- Mayuresh
 - Mohammed Jazaa
 
 ## License
