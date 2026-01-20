@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Service Management System (VSMS)
 
 ## Project Overview
@@ -115,3 +116,6 @@ git clone https://github.com/your-username/vehicle-service-management-system.git
 ## Support
 
 For issues or questions, please open a GitHub issue or contact the maintainers.
+=======
+# Vehicle-Service-Management-System
+>>>>>>> 3df1f121afc19e931c34cab942dadf225bdc9e2d
